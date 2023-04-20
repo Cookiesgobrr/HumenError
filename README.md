@@ -27,7 +27,7 @@ Usage of HumenError for attacking targets without prior mutual consent is illega
 ![](https://raw.githubusercontent.com/samadbloch/HumenError/master/sites/screenshots/image4.png)
 ### Usage:
 ```
-git clone https://github.com/samadbloch/HumenError.git
+git clone https://github.com/Cookiesgobrr/HumenError.git
 cd HumenError
 chmod +x HumenError.sh
 bash HumenError.sh
